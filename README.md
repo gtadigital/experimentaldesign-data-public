@@ -1,7 +1,13 @@
 # experimentaldesign-data-public
  
 ## Abstract
-See the [Swiss National Science Foundation (SNSF) Data Portal](https://data.snf.ch/grants/grant/179095) for the abstract. 
+Heinz Isler (1926-2009) is one of the most renowned Swiss engineers of the second half of the 20th century. In particular his thin concrete shells had a significant impact on the development of civil engineering in the second half of the century. Isler’s work was largely based on experimental design methods, which he constantly tested and verified at various scales using models which must be recognized as his central design tools.
+
+The success of  Isler’s shells was possible under specific economic conditions over a period of around three decades: from the end of the 1950ies onwards, the engineer succeeded in winning a large number of commissions, especially from Swiss industry. However, the economy of thin concrete shells suffered a noticeable slump from the end of the 1970ies onwards. It can be assumed that economic conditions during the boom years after the Second World War had a decisive influence on Isler’s building production – as these changed, construction activity based on them also had to face a crisis. In addition, it must be asked to what extent the perception of «progressive» engineering structures in general and of concrete as a building material in particular, which was also conveyed in the media, changed in the wake of the criticism of modernity from the 1970ies onwards, and whether this also explains the crisis of the «System Isler».
+
+Based on Isler's posthumous papers, which are kept at the gta Archives of ETH Zurich, the publication project examines Isler’s contribution to building production in the second half of the 20th century from a cultural and engineering history perspective. To achieve a comprehensive embedding of Isler’s work in the historical context, his contribution has to be examined in the light of its contemporary field, also considering parallel, possibly conflicting developments and trends. This research will on the one hand provide new insights both into the professional exchange between engineers and architects in design and construction processes as well as into the building economy with its specific conditions. On the other hand it will shed light on the public discourse on architecture and engineering in a time that significantly shapes the face of our built environment still today.
+
+See the [Swiss National Science Foundation (SNSF) Data Portal](https://data.snf.ch/grants/grant/179095) for additional information. 
  
 ## Method
 The present data set includes both the source data (a) and the research data (b) resulting from the SNSF-funded research project [»Experimental Design in the Post-War Period - Heinz Isler's (1926-2009)«](https://data.snf.ch/grants/grant/179095): 
