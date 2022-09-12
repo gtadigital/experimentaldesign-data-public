@@ -30,4 +30,4 @@ The transformation of the source data is using 3M modelling software for content
 The present data set includes all data available at the project end. An updated version of the same data will be available at [GitHub](https://github.com/gtadigital/experimentaldesign-data-public). The later will include additional data and data visualisation related to the planned book publication (due 2023).     
 
 ## Versions
-An archived version of this data set can be found at DOI_TBD 
+An archived version of this data set can be found at the ETH Resarch Collection (https://doi.org/10.3929/ethz-b-000570137)
