@@ -1,0 +1,8 @@
+#exclude macos file
+**/.DS_Store
+
+#exclude local tmp dirs
+**/tmp
+**/log
+**/_log
+
