@@ -17,11 +17,11 @@ a) Source data have been collected within the gta Collections Management System 
 b) research data consist of a transformation of holding data and related scholarly observation into a machine-processable RDF format for FAIR access and reuse. As the general underlying ontology, the ISO certified Conceptual Reference Model ([CRM](https://www.cidoc-crm.org/)) of International Committee for Documentation (CIDOC) of the International Council of Museums (ICOM) is being used. The data model for the actual mapping complies with Bruseker G, Carboni, N., et al. [Semantic Reference Data Models](https://docs.swissartresearch.net/) (SDRM) provided by the Swiss Art Research Infrastructures (SARI). 
 
 The data models specifically used are: 
-- [Places](https://docs.swissartresearch.net/et/place/)
-- [Persons](https://docs.swissartresearch.net/et/persons/)
-- [Groups](https://docs.swissartresearch.net/et/group/)
-- [Archival Units](https://docs.swissartresearch.net/et/archival/)
-- [Digital Objects](https://docs.swissartresearch.net/et/do/)
+- [Places (E53)](https://docs.swissartresearch.net/et/place/)
+- [Persons (E21)](https://docs.swissartresearch.net/et/persons/)
+- [Groups (E74)](https://docs.swissartresearch.net/et/group/)
+- [Archival Units (E78)](https://docs.swissartresearch.net/et/archival/)
+- [Digital Objects (D1)](https://docs.swissartresearch.net/et/do/)
 
 The conceptual modelling for Built Works and Project follows Guillem, A. and Bruseker, G. [Creative Processes Representation](https://github.com/Habennin/crmcpr). A conceptual model extending CIDOC CRM and FRBR for the description of creative processes, 2019. 
 
